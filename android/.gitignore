@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+*.so
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+local.properties
+
+# Kotlin
+kotlin-build/
+.kotlin/
+
+# Generated files
+.cxx/
+.externalNativeBuild/
+
+# Signing
+*.jks
+*.keystore
+*.pem
+*.key
+
+# Environment
+.env
+.env.local
